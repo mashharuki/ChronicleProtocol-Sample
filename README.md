@@ -1,6 +1,12 @@
 # ChronicleProtocol-Sample
 Chronicle Protocol調査用のリポジトリ
 
+## クローン方法
+
+```bash
+git clone --recursive https://github.com/mashharuki/ChronicleProtocol-Sample.git
+```
+
 ## ChronicleProtocolとは
 
 Chronicle Protocolは、2017年以降、MakerDAOとそのエコシステムのために100億ドル以上の資産を独自に保護してきた革新的なオラクルソリューションです。Chronicle Protocolは、Ethereum上で最初のオラクルを発明するなど、常に革新を続けており、オラクルネットワークの概念を再定義しています。ブロックチェーンに依存しないこのプロトコルは、オンチェーンでのデータ転送における現行の制約を克服し、真にスケーラブルでコスト効率が高く、分散化された検証可能なオラクルを開発することで、データの透明性とアクセスのあり方を大きく変えています。
@@ -37,3 +43,4 @@ Chronicleは、総資産担保額（TVS）で2番目に大きいオラクルプ�
 4. [Testnet Contract addresses](https://docs.chroniclelabs.org/Developers/testnet)
 5. [eth-global-sf-hackathon resources](https://docs.chroniclelabs.org/hackathons/eth-global-sf-hackathon)
 6. [GitHub - scaffold-oracle-reader](https://github.com/chronicleprotocol/scaffold-oracle-reader)
+7. [GitHub - chronicleprotocol](https://github.com/chronicleprotocol)
